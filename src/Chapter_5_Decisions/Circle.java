@@ -29,7 +29,7 @@ public class Circle {
         this.radius = radius;
         this.diameter = radius * 2;
         this.xCenter = xTop + radius;
-        this.yCenter = yLeft - radius;
+        this.yCenter = yLeft + radius;
         
     }
     
